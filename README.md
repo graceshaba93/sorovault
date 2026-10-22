@@ -17,7 +17,7 @@ for where contributions are most welcome.
 
 ---
 
-## Why
+# # Why
 
 A deployed Soroban contract is a black box unless you have its interface.
 
